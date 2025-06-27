@@ -144,4 +144,4 @@ For questions or issues:
 
 ---
 
-Built with ❤️ for Shopify store owners and developers. 
+Built with ❤️ for Shopify store owners and developers.
